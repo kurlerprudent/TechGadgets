@@ -1,0 +1,11 @@
+.container{
+    background-image: url("../Images/backG3.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    padding-bottom: 2%;
+    position: relative;
+ 
+
+}
